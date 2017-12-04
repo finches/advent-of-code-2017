@@ -1,7 +1,7 @@
 {
-  "name": "day1-puzzle2",
+  "name": "day2-puzzle1",
   "version": "1.0.0",
-  "description": "Script to solve day 1 of AoC 2017",
+  "description": "Script to solve day 2 of AoC 2017",
   "main": "index.js",
   "scripts": {
     "test": "test",
